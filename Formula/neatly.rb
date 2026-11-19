@@ -1,9 +1,9 @@
 class Neatly < Formula
   desc "Suggests short names and folders for your downloads, on-device"
   homepage "https://github.com/alpozaydin/neatly"
-  url "https://github.com/alpozaydin/neatly/releases/download/v0.6.3/neatly-macos-arm64.tar.gz"
-  version "0.6.3"
-  sha256 "a2311d7434c7d83ec1b1c2e37804a36ecaf3d020c41c54f21e133e5aa2292754"
+  url "https://github.com/alpozaydin/neatly/releases/download/v0.6.4/neatly-macos-arm64.tar.gz"
+  version "0.6.4"
+  sha256 "87b697da4b01eca1dc7d623b540d55b30cd38758f59547c3e958576104c956b0"
   license "MIT"
 
   depends_on arch: :arm64
